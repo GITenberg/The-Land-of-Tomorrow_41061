@@ -1,0 +1,27 @@
+_repo: The-Land-of-Tomorrow_41061
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41061-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stephenson, William B.
+    birthdate: 1880
+    deathdate: 1955
+    gutenberg_agent_id: '40958'
+    url: http://www.gutenberg.org/2009/agents/40958
+description: ''
+gutenberg_issued: '2012-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41061'
+  lccn: '19012723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alaska -- Description and travel'
+- !lcc 'F850.5'
+title: The Land of Tomorrow
+url: http://www.gutenberg.org/ebooks/41061
